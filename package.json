@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node api"
+        "start": "node api/api"
     },
     "author": "Fello Malacara",
     "license": "ISC",
